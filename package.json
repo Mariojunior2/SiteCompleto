@@ -1,0 +1,14 @@
+{
+  "name": "sitecompleto",
+  "version": "1.0.0",
+  "description": "PROJETO DO FAUSTO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Mensagem: Erro de Trouxa\" && exit 1"
+  },
+  "author": "Mario Goncalves de Freitas Junior",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
